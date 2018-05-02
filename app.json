@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Subscribed",
+    "description": "Track all your subscriptions in one place and get payment reminders.",
+    "slug": "subscribed",
+    "privacy": "public",
+    "version": "0.1",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "primaryColor": "#ffffff",
+    "sdkVersion": "23.0.0",
+    "splash": {
+      "image": "./assets/splashscreen/splash-iphone.png"
+    },
+    "icon": "./assets/icon.png"
+  }
+}
